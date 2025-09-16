@@ -1,6 +1,6 @@
 ////let sara = prompt("Write your note: ");
 
-//if (sara === "donky") {
+//if (sara === "full") {
   //console.log("she is chutya");
 //} else {
   //console.log("she is good");
