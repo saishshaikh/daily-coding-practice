@@ -1,7 +1,7 @@
 ////let sara = prompt("Write your note: ");
 
-//if (sara === "full") {
-  //console.log("she is chutya");
+//if (sara === "donky") {
+  //console.log("she is full");
 //} else {
   //console.log("she is good");
 //}
